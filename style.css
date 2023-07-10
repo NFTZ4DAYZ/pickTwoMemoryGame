@@ -1,0 +1,38 @@
+.grid {
+    
+
+    height: 450px;
+    width: 600px;
+    margin: auto;
+    margin: 0;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+
+}
+
+h3 {
+
+    color: #708090;
+    font-weight: bold;
+    text-align: center;
+    font-size: 60px;
+    
+   
+}
+
+* {
+    background-image: linear-gradient(to right, #00b4db, #0083b0);
+
+}
+
+h4{
+   
+    color: #FFFAFA;
+    text-align: center;
+   
+    font-style: italic;
+
+    font-size: 50px;
+}
